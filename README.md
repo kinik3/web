@@ -1,2 +1,2 @@
 # web
-Web Editörü Kaynak Dosyaları
+Web Editörü JavaScrip Kaynak Dosyaları
