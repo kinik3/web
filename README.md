@@ -1,2 +1,2 @@
 # web
-Web Editörü JavaScrip Kaynak Dosyaları
+Web Editörü JavaScript ve TypeScript Kaynak Dosyaları
